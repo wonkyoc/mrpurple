@@ -1,0 +1,11 @@
+title: Mr. Purple
+tagline: A neat gem-based theme
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
