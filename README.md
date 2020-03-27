@@ -1,6 +1,6 @@
 # Mr. Purple
 
-A simple and neat jekyll theme. 99% of features come from [sidey](https://github.com/ronv/sidey).
+A simple and neat jekyll theme. 99% of features come from [sidey](https://github.com/ronv/sidey) and a few design matters are from [noir](https://noir.essentialenemy.com/).
 This theme is still under-construction.
 
 ## License
